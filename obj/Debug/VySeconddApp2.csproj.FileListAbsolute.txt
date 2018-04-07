@@ -1,0 +1,7 @@
+D:\WORK\VySeconddApp2\VySeconddApp2\bin\Debug\VySeconddApp2.exe.config
+D:\WORK\VySeconddApp2\VySeconddApp2\bin\Debug\VySeconddApp2.exe
+D:\WORK\VySeconddApp2\VySeconddApp2\bin\Debug\VySeconddApp2.pdb
+D:\WORK\VySeconddApp2\VySeconddApp2\obj\Debug\VySeconddApp2.csprojResolveAssemblyReference.cache
+D:\WORK\VySeconddApp2\VySeconddApp2\obj\Debug\VySeconddApp2.csproj.CoreCompileInputs.cache
+D:\WORK\VySeconddApp2\VySeconddApp2\obj\Debug\VySeconddApp2.exe
+D:\WORK\VySeconddApp2\VySeconddApp2\obj\Debug\VySeconddApp2.pdb
