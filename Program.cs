@@ -10,8 +10,8 @@ namespace VySeconddApp2
     {
         static void Main(string[] args)
         {
-			string str = "1000";
-			short x = Convert.ToInt16(str);			
+			short x  = 1000;
+			string str = Convert.ToString(x);			
 			Console.WriteLine(x);
 			Console.ReadKey();  
         }
